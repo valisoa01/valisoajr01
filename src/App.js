@@ -5,7 +5,9 @@ function App() {
   
   return (
     <div className="App">
+      <div className='valy'>
       <h1>Bienvenue dans mon projet React !</h1>
+      </div>
     </div>
   );
 }
